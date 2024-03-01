@@ -25,4 +25,7 @@ sudo dpkg -r mysql-connector-j
 sudo apt-get autoremove
 5.
 History
+![image](https://github.com/NikasNike/ITOGspecial_KR/assets/92685343/6206ef88-369a-4b7a-b320-b0b99269177d)
+
+6.
 ![image](https://github.com/NikasNike/ITOGspecial_KR/assets/92685343/675ca41a-ae9f-4f79-9e90-f72d64aea64c)
