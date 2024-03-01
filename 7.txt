@@ -155,3 +155,5 @@ FROM horse_and_donkey;
 INSERT INTO animals (animal_name, commands, date, age, animal_type)
 SELECT animal_name, commands, date, age_animal(date), 'smoll_animals'
 FROM smoll_animal;
+
+
